@@ -1,0 +1,25 @@
+---
+
+namespace: "tdworz"
+name: "system_maintenance"
+version: 0.0.1
+
+description: An Ansible collection to help with the maintenance of systems.
+
+authors:
+  - Tom "tdworz" Dworzanski <tom@dworzanski.com>
+
+readme: README.md
+license:
+  - GPL-3.0-or-later
+
+repository: https://github.com/tdworz/ansible-collection-system_maintenance
+issues: https://github.com/tdworz/ansible-collection-system_maintenance/issues
+
+tags:
+  - maintenance
+  - update
+  - reboot
+
+dependencies: {}
+
