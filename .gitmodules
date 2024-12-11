@@ -1,0 +1,3 @@
+[submodule "roles/system_reboot"]
+	path = roles/system_reboot
+	url = https://github.com/tdworz/ansible-role-system_reboot
