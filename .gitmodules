@@ -1,3 +1,6 @@
 [submodule "roles/system_reboot"]
 	path = roles/system_reboot
 	url = https://github.com/tdworz/ansible-role-system_reboot
+[submodule "roles/system_update"]
+	path = roles/system_update
+	url = https://github.com/tdworz/ansible-role-system_update
